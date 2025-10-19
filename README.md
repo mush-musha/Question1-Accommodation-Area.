@@ -21,3 +21,7 @@ Track how many people are in each area
 Built With
 Java
 Apache Ant (for building)
+
+**SCREENSHOTS**
+<img width="541" height="167" alt="image" src="https://github.com/user-attachments/assets/95c39b6e-b38a-4398-aa1a-75a0502cd304" />
+
