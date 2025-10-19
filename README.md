@@ -23,5 +23,12 @@ Java
 Apache Ant (for building)
 
 **SCREENSHOTS**
-<img width="541" height="167" alt="image" src="https://github.com/user-attachments/assets/95c39b6e-b38a-4398-aa1a-75a0502cd304" />
+
+<img width="700" height="566" alt="image" src="https://github.com/user-attachments/assets/9eb05f85-4edc-4121-b3fd-3aec06c9cb6a" />
+<img width="639" height="614" alt="image" src="https://github.com/user-attachments/assets/d41ba554-4f23-48d4-bc64-6f7009148509" />
+<img width="703" height="567" alt="image" src="https://github.com/user-attachments/assets/25cd370b-3b01-473f-8ae1-0cb7417caa90" />
+
+
+
+
 
